@@ -1,0 +1,8 @@
+d:\用户目录\documents\visual studio 2010\Projects\clientT\clientT\bin\Debug\clientT.exe
+d:\用户目录\documents\visual studio 2010\Projects\clientT\clientT\bin\Debug\clientT.pdb
+d:\用户目录\documents\visual studio 2010\Projects\clientT\clientT\obj\x86\Debug\clientT.Form1.resources
+d:\用户目录\documents\visual studio 2010\Projects\clientT\clientT\obj\x86\Debug\clientT.Properties.Resources.resources
+d:\用户目录\documents\visual studio 2010\Projects\clientT\clientT\obj\x86\Debug\clientT.csproj.GenerateResource.Cache
+d:\用户目录\documents\visual studio 2010\Projects\clientT\clientT\obj\x86\Debug\clientT.exe
+d:\用户目录\documents\visual studio 2010\Projects\clientT\clientT\obj\x86\Debug\clientT.pdb
+D:\用户目录\Documents\Visual Studio 2010\Projects\clientT\clientT\obj\x86\Debug\clientT.csprojResolveAssemblyReference.cache

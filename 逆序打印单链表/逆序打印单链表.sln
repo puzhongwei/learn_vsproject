@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "逆序打印单链表", "逆序打印单链表\逆序打印单链表.vcxproj", "{0341A79D-B6AC-451E-8F93-6BD62EB542FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0341A79D-B6AC-451E-8F93-6BD62EB542FC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0341A79D-B6AC-451E-8F93-6BD62EB542FC}.Debug|Win32.Build.0 = Debug|Win32
+		{0341A79D-B6AC-451E-8F93-6BD62EB542FC}.Release|Win32.ActiveCfg = Release|Win32
+		{0341A79D-B6AC-451E-8F93-6BD62EB542FC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

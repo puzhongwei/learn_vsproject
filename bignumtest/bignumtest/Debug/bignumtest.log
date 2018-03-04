@@ -1,0 +1,180 @@
+﻿生成启动时间为 2016/5/17 19:41:11。
+     1>项目“d:\用户目录\documents\visual studio 2010\Projects\bignumtest\bignumtest\bignumtest.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\bignumtest.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         E:\Microsoft Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\bignumtest.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt bignumtest.cpp
+         bignumtest.cpp
+     1>d:\用户目录\documents\visual studio 2010\projects\bignumtest\bignumtest\bignumtest.cpp(14): error C2678: 二进制“>>”: 没有找到接受“std::istream”类型的左操作数的运算符(或没有可接受的转换)
+                 e:\microsoft visual studio\vc\include\istream(1053): 可能是“std::basic_istream<_Elem,_Traits> &std::operator >><std::char_traits<char>>(std::basic_istream<_Elem,_Traits> &&,signed char *)”
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 e:\microsoft visual studio\vc\include\istream(1060): 或       “std::basic_istream<_Elem,_Traits> &std::operator >><std::char_traits<char>>(std::basic_istream<_Elem,_Traits> &&,signed char &)”
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 e:\microsoft visual studio\vc\include\istream(1067): 或       “std::basic_istream<_Elem,_Traits> &std::operator >><std::char_traits<char>>(std::basic_istream<_Elem,_Traits> &&,unsigned char *)”
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 e:\microsoft visual studio\vc\include\istream(1074): 或       “std::basic_istream<_Elem,_Traits> &std::operator >><std::char_traits<char>>(std::basic_istream<_Elem,_Traits> &&,unsigned char &)”
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 e:\microsoft visual studio\vc\include\istream(1097): 或       “std::basic_istream<_Elem,_Traits> &std::operator >><std::char_traits<char>>(std::basic_istream<_Elem,_Traits> &,signed char *)”
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 e:\microsoft visual studio\vc\include\istream(1104): 或       “std::basic_istream<_Elem,_Traits> &std::operator >><std::char_traits<char>>(std::basic_istream<_Elem,_Traits> &,signed char &)”
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 e:\microsoft visual studio\vc\include\istream(1111): 或       “std::basic_istream<_Elem,_Traits> &std::operator >><std::char_traits<char>>(std::basic_istream<_Elem,_Traits> &,unsigned char *)”
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 e:\microsoft visual studio\vc\include\istream(1118): 或       “std::basic_istream<_Elem,_Traits> &std::operator >><std::char_traits<char>>(std::basic_istream<_Elem,_Traits> &,unsigned char &)”
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 e:\microsoft visual studio\vc\include\istream(1128): 或       “std::basic_istream<_Elem,_Traits> &std::operator >><char,std::char_traits<char>,std::string>(std::basic_istream<_Elem,_Traits> &&,_Ty &)”
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ty=std::string
+                 ]
+                 e:\microsoft visual studio\vc\include\istream(179): 或       “std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(std::basic_istream<_Elem,_Traits> &(__cdecl *)(std::basic_istream<_Elem,_Traits> &))”
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 e:\microsoft visual studio\vc\include\istream(185): 或       “std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(std::basic_ios<_Elem,_Traits> &(__cdecl *)(std::basic_ios<_Elem,_Traits> &))”
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 e:\microsoft visual studio\vc\include\istream(192): 或       “std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(std::ios_base &(__cdecl *)(std::ios_base &))”
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 e:\microsoft visual studio\vc\include\istream(199): 或       “std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(std::_Bool &)”
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 e:\microsoft visual studio\vc\include\istream(218): 或       “std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(short &)”
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 e:\microsoft visual studio\vc\include\istream(253): 或       “std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(unsigned short &)”
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 e:\microsoft visual studio\vc\include\istream(272): 或       “std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(int &)”
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 e:\microsoft visual studio\vc\include\istream(298): 或       “std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(unsigned int &)”
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 e:\microsoft visual studio\vc\include\istream(316): 或       “std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(long &)”
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 e:\microsoft visual studio\vc\include\istream(334): 或       “std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(unsigned long &)”
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 e:\microsoft visual studio\vc\include\istream(354): 或       “std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(__int64 &)”
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 e:\microsoft visual studio\vc\include\istream(373): 或       “std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(unsigned __int64 &)”
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 e:\microsoft visual studio\vc\include\istream(392): 或       “std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(float &)”
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 e:\microsoft visual studio\vc\include\istream(411): 或       “std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(double &)”
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 e:\microsoft visual studio\vc\include\istream(429): 或       “std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(long double &)”
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 e:\microsoft visual studio\vc\include\istream(447): 或       “std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(void *&)”
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 e:\microsoft visual studio\vc\include\istream(466): 或       “std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::operator >>(std::basic_streambuf<_Elem,_Traits> *)”
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 尝试匹配参数列表“(std::istream, std::string)”时
+     1>d:\用户目录\documents\visual studio 2010\projects\bignumtest\bignumtest\bignumtest.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\用户目录\documents\visual studio 2010\projects\bignumtest\bignumtest\bignumtest.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\用户目录\documents\visual studio 2010\projects\bignumtest\bignumtest\bignumtest.cpp(18): error C2065: “！s1”: 未声明的标识符
+     1>d:\用户目录\documents\visual studio 2010\projects\bignumtest\bignumtest\bignumtest.cpp(18): error C2228: “.empty”的左边必须有类/结构/联合
+                 类型是“'unknown-type'”
+     1>d:\用户目录\documents\visual studio 2010\projects\bignumtest\bignumtest\bignumtest.cpp(18): error C2065: “！”: 未声明的标识符
+     1>d:\用户目录\documents\visual studio 2010\projects\bignumtest\bignumtest\bignumtest.cpp(18): error C2146: 语法错误: 缺少“)”(在标识符“s2”的前面)
+     1>d:\用户目录\documents\visual studio 2010\projects\bignumtest\bignumtest\bignumtest.cpp(18): fatal error C1903: 无法从以前的错误中恢复；正在停止编译
+     1>已完成生成项目“d:\用户目录\documents\visual studio 2010\Projects\bignumtest\bignumtest\bignumtest.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.51

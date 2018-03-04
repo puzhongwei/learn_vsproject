@@ -1,0 +1,13 @@
+d:\用户目录\documents\visual studio 2010\Projects\云管家\云管家\bin\Debug\云管家.exe
+d:\用户目录\documents\visual studio 2010\Projects\云管家\云管家\bin\Debug\云管家.pdb
+d:\用户目录\documents\visual studio 2010\Projects\云管家\云管家\obj\x86\Debug\云管家.Properties.Resources.resources
+d:\用户目录\documents\visual studio 2010\Projects\云管家\云管家\obj\x86\Debug\云管家.csproj.GenerateResource.Cache
+d:\用户目录\documents\visual studio 2010\Projects\云管家\云管家\obj\x86\Debug\云管家.exe
+d:\用户目录\documents\visual studio 2010\Projects\云管家\云管家\obj\x86\Debug\云管家.pdb
+D:\用户目录\Documents\Visual Studio 2010\Projects\云管家\云管家\obj\x86\Debug\云管家.MainForm.resources
+D:\用户目录\Documents\Visual Studio 2010\Projects\云管家\云管家\obj\x86\Debug\云管家.filesavedlg.resources
+D:\用户目录\Documents\Visual Studio 2010\Projects\云管家\云管家\obj\x86\Debug\云管家.logindlg.resources
+D:\用户目录\Documents\Visual Studio 2010\Projects\云管家\云管家\obj\x86\Debug\云管家.renamedlg.resources
+D:\用户目录\Documents\Visual Studio 2010\Projects\云管家\云管家\obj\x86\Debug\云管家.csprojResolveAssemblyReference.cache
+D:\用户目录\Documents\Visual Studio 2010\Projects\云管家\云管家\obj\x86\Debug\云管家.registerdlg.resources
+d:\用户目录\documents\visual studio 2010\Projects\云管家\云管家\obj\x86\Debug\云管家.hidespacedlg.resources

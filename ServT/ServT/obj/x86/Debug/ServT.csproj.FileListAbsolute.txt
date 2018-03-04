@@ -1,0 +1,8 @@
+d:\用户目录\documents\visual studio 2010\Projects\ServT\ServT\bin\Debug\ServT.exe
+D:\用户目录\Documents\Visual Studio 2010\Projects\ServT\ServT\obj\x86\Debug\ServT.Form1.resources
+D:\用户目录\Documents\Visual Studio 2010\Projects\ServT\ServT\obj\x86\Debug\ServT.Properties.Resources.resources
+D:\用户目录\Documents\Visual Studio 2010\Projects\ServT\ServT\obj\x86\Debug\ServT.csproj.GenerateResource.Cache
+D:\用户目录\Documents\Visual Studio 2010\Projects\ServT\ServT\obj\x86\Debug\ServT.exe
+D:\用户目录\Documents\Visual Studio 2010\Projects\ServT\ServT\obj\x86\Debug\ServT.pdb
+D:\用户目录\Documents\Visual Studio 2010\Projects\ServT\ServT\bin\Debug\ServT.pdb
+D:\用户目录\Documents\Visual Studio 2010\Projects\ServT\ServT\obj\x86\Debug\ServT.csprojResolveAssemblyReference.cache

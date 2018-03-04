@@ -1,0 +1,24 @@
+d:\my documents\visual studio 2010\Projects\filetest\filetest\bin\Debug\filetest.exe
+d:\my documents\visual studio 2010\Projects\filetest\filetest\bin\Debug\filetest.pdb
+d:\my documents\visual studio 2010\Projects\filetest\filetest\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\my documents\visual studio 2010\Projects\filetest\filetest\obj\x86\Debug\filetest.Form1.resources
+d:\my documents\visual studio 2010\Projects\filetest\filetest\obj\x86\Debug\filetest.Properties.Resources.resources
+d:\my documents\visual studio 2010\Projects\filetest\filetest\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\my documents\visual studio 2010\Projects\filetest\filetest\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\my documents\visual studio 2010\Projects\filetest\filetest\obj\x86\Debug\filetest.exe
+d:\my documents\visual studio 2010\Projects\filetest\filetest\obj\x86\Debug\filetest.pdb
+H:\filetest\filetest\obj\x86\Debug\filetest.exe
+H:\filetest\filetest\obj\x86\Debug\filetest.pdb
+H:\filetest\filetest\bin\Debug\filetest.exe
+H:\filetest\filetest\bin\Debug\filetest.pdb
+H:\filetest\filetest\obj\x86\Debug\filetest.Form1.resources
+H:\filetest\filetest\obj\x86\Debug\filetest.Properties.Resources.resources
+H:\filetest\filetest\obj\x86\Debug\filetest.csproj.GenerateResource.Cache
+D:\用户目录\Documents\Visual Studio 2010\Projects\filetest\filetest\obj\x86\Debug\filetest.exe
+D:\用户目录\Documents\Visual Studio 2010\Projects\filetest\filetest\obj\x86\Debug\filetest.pdb
+D:\用户目录\Documents\Visual Studio 2010\Projects\filetest\filetest\bin\Debug\filetest.exe
+D:\用户目录\Documents\Visual Studio 2010\Projects\filetest\filetest\bin\Debug\filetest.pdb
+D:\用户目录\Documents\Visual Studio 2010\Projects\filetest\filetest\obj\x86\Debug\filetest.Form1.resources
+D:\用户目录\Documents\Visual Studio 2010\Projects\filetest\filetest\obj\x86\Debug\filetest.Properties.Resources.resources
+D:\用户目录\Documents\Visual Studio 2010\Projects\filetest\filetest\obj\x86\Debug\filetest.csproj.GenerateResource.Cache
+D:\用户目录\Documents\Visual Studio 2010\Projects\filetest\filetest\obj\x86\Debug\filetest.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+d:\用户目录\documents\visual studio 2010\Projects\SocketServerTest\SocketServerTest\bin\Debug\SocketServerTest.exe
+d:\用户目录\documents\visual studio 2010\Projects\SocketServerTest\SocketServerTest\bin\Debug\SocketServerTest.pdb
+d:\用户目录\documents\visual studio 2010\Projects\SocketServerTest\SocketServerTest\obj\x86\Debug\SocketServerTest.Form1.resources
+d:\用户目录\documents\visual studio 2010\Projects\SocketServerTest\SocketServerTest\obj\x86\Debug\SocketServerTest.Properties.Resources.resources
+d:\用户目录\documents\visual studio 2010\Projects\SocketServerTest\SocketServerTest\obj\x86\Debug\SocketServerTest.csproj.GenerateResource.Cache
+d:\用户目录\documents\visual studio 2010\Projects\SocketServerTest\SocketServerTest\obj\x86\Debug\SocketServerTest.exe
+d:\用户目录\documents\visual studio 2010\Projects\SocketServerTest\SocketServerTest\obj\x86\Debug\SocketServerTest.pdb

@@ -1,0 +1,7 @@
+d:\用户目录\documents\visual studio 2010\Projects\fileRecv\fileRecv\bin\Debug\fileRecv.exe
+d:\用户目录\documents\visual studio 2010\Projects\fileRecv\fileRecv\bin\Debug\fileRecv.pdb
+d:\用户目录\documents\visual studio 2010\Projects\fileRecv\fileRecv\obj\x86\Debug\fileRecv.Form1.resources
+d:\用户目录\documents\visual studio 2010\Projects\fileRecv\fileRecv\obj\x86\Debug\fileRecv.Properties.Resources.resources
+d:\用户目录\documents\visual studio 2010\Projects\fileRecv\fileRecv\obj\x86\Debug\fileRecv.csproj.GenerateResource.Cache
+d:\用户目录\documents\visual studio 2010\Projects\fileRecv\fileRecv\obj\x86\Debug\fileRecv.exe
+d:\用户目录\documents\visual studio 2010\Projects\fileRecv\fileRecv\obj\x86\Debug\fileRecv.pdb

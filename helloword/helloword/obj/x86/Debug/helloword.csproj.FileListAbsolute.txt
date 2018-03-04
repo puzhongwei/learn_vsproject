@@ -1,0 +1,4 @@
+d:\用户目录\documents\visual studio 2010\Projects\helloword\helloword\bin\Debug\helloword.exe
+d:\用户目录\documents\visual studio 2010\Projects\helloword\helloword\bin\Debug\helloword.pdb
+d:\用户目录\documents\visual studio 2010\Projects\helloword\helloword\obj\x86\Debug\helloword.exe
+d:\用户目录\documents\visual studio 2010\Projects\helloword\helloword\obj\x86\Debug\helloword.pdb

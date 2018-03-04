@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "二进制中1 的个数", "二进制中1 的个数\二进制中1 的个数.vcxproj", "{09648359-AC4F-4D83-9C91-3D8FAE98B982}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09648359-AC4F-4D83-9C91-3D8FAE98B982}.Debug|Win32.ActiveCfg = Debug|Win32
+		{09648359-AC4F-4D83-9C91-3D8FAE98B982}.Debug|Win32.Build.0 = Debug|Win32
+		{09648359-AC4F-4D83-9C91-3D8FAE98B982}.Release|Win32.ActiveCfg = Release|Win32
+		{09648359-AC4F-4D83-9C91-3D8FAE98B982}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

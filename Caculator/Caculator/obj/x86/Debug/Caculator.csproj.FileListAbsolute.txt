@@ -1,0 +1,7 @@
+d:\用户目录\documents\visual studio 2010\Projects\Caculator\Caculator\bin\Debug\Caculator.exe
+d:\用户目录\documents\visual studio 2010\Projects\Caculator\Caculator\bin\Debug\Caculator.pdb
+d:\用户目录\documents\visual studio 2010\Projects\Caculator\Caculator\obj\x86\Debug\Caculator.Properties.Resources.resources
+d:\用户目录\documents\visual studio 2010\Projects\Caculator\Caculator\obj\x86\Debug\Caculator.csproj.GenerateResource.Cache
+d:\用户目录\documents\visual studio 2010\Projects\Caculator\Caculator\obj\x86\Debug\Caculator.exe
+d:\用户目录\documents\visual studio 2010\Projects\Caculator\Caculator\obj\x86\Debug\Caculator.pdb
+d:\用户目录\documents\visual studio 2010\Projects\Caculator\Caculator\obj\x86\Debug\Caculator.Form1.resources

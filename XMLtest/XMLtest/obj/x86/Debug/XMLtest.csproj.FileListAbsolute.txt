@@ -1,0 +1,8 @@
+d:\用户目录\documents\visual studio 2010\Projects\XMLtest\XMLtest\obj\x86\Debug\XMLtest.Properties.Resources.resources
+d:\用户目录\documents\visual studio 2010\Projects\XMLtest\XMLtest\obj\x86\Debug\XMLtest.csproj.GenerateResource.Cache
+d:\用户目录\documents\visual studio 2010\Projects\XMLtest\XMLtest\bin\Debug\XMLtest.exe
+d:\用户目录\documents\visual studio 2010\Projects\XMLtest\XMLtest\bin\Debug\XMLtest.pdb
+d:\用户目录\documents\visual studio 2010\Projects\XMLtest\XMLtest\obj\x86\Debug\XMLtest.exe
+d:\用户目录\documents\visual studio 2010\Projects\XMLtest\XMLtest\obj\x86\Debug\XMLtest.pdb
+d:\用户目录\documents\visual studio 2010\Projects\XMLtest\XMLtest\obj\x86\Debug\XMLtest.Form1.resources
+D:\用户目录\Documents\Visual Studio 2010\Projects\XMLtest\XMLtest\obj\x86\Debug\XMLtest.csprojResolveAssemblyReference.cache

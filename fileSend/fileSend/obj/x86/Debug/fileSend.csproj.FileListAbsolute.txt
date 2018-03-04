@@ -1,0 +1,8 @@
+d:\用户目录\documents\visual studio 2010\Projects\fileSend\fileSend\obj\x86\Debug\fileSend.Properties.Resources.resources
+d:\用户目录\documents\visual studio 2010\Projects\fileSend\fileSend\obj\x86\Debug\fileSend.csproj.GenerateResource.Cache
+D:\用户目录\Documents\Visual Studio 2010\Projects\fileSend\fileSend\obj\x86\Debug\fileSend.csprojResolveAssemblyReference.cache
+D:\用户目录\Documents\Visual Studio 2010\Projects\fileSend\fileSend\obj\x86\Debug\fileSend.Form1.resources
+D:\用户目录\Documents\Visual Studio 2010\Projects\fileSend\fileSend\bin\Debug\fileSend.exe
+D:\用户目录\Documents\Visual Studio 2010\Projects\fileSend\fileSend\bin\Debug\fileSend.pdb
+D:\用户目录\Documents\Visual Studio 2010\Projects\fileSend\fileSend\obj\x86\Debug\fileSend.exe
+D:\用户目录\Documents\Visual Studio 2010\Projects\fileSend\fileSend\obj\x86\Debug\fileSend.pdb

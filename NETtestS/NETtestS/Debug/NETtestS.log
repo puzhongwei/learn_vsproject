@@ -1,0 +1,29 @@
+﻿生成启动时间为 2016/6/12 17:32:36。
+     1>项目“d:\用户目录\documents\visual studio 2010\Projects\NETtestS\NETtestS\NETtestS.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\NETtestS.lastbuildstate”。
+       InitializeBuildStatus:
+         正在对“Debug\NETtestS.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         E:\Microsoft Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\NETtestS.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         E:\Microsoft Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\NETtestS.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt NETtestS.cpp
+         NETtestS.cpp
+     1>d:\用户目录\documents\visual studio 2010\projects\nettests\nettests\nettests.cpp(30): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\microsoft visual studio\vc\include\time.inl(112) : 参见“localtime”的声明
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\NETtestS.exe.embed.manifest.res" Debug\NETtestS_manifest.rc 
+       Link:
+         E:\Microsoft Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\用户目录\documents\visual studio 2010\Projects\NETtestS\Debug\NETtestS.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\NETtestS.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"d:\用户目录\documents\visual studio 2010\Projects\NETtestS\Debug\NETtestS.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\用户目录\documents\visual studio 2010\Projects\NETtestS\Debug\NETtestS.lib" /MACHINE:X86 Debug\NETtestS.exe.embed.manifest.res
+         Debug\NETtestS.obj
+         Debug\stdafx.obj
+     1>NETtestS.obj : error LNK2019: 无法解析的外部符号 "public: class FileLog & __thiscall FileLog::WriteLine(char const *)" (?WriteLine@FileLog@@QAEAAV1@PBD@Z)，该符号在函数 "void __cdecl receive(void *)" (?receive@@YAXPAX@Z) 中被引用
+     1>NETtestS.obj : error LNK2019: 无法解析的外部符号 "public: class FileLog & __thiscall FileLog::Write(char const *)" (?Write@FileLog@@QAEAAV1@PBD@Z)，该符号在函数 "void __cdecl receive(void *)" (?receive@@YAXPAX@Z) 中被引用
+     1>NETtestS.obj : error LNK2019: 无法解析的外部符号 "public: int __thiscall FileLog::Close(void)" (?Close@FileLog@@QAEHXZ)，该符号在函数 _main 中被引用
+     1>NETtestS.obj : error LNK2019: 无法解析的外部符号 "public: int __thiscall FileLog::Open(char const *)" (?Open@FileLog@@QAEHPBD@Z)，该符号在函数 _main 中被引用
+     1>d:\用户目录\documents\visual studio 2010\Projects\NETtestS\Debug\NETtestS.exe : fatal error LNK1120: 4 个无法解析的外部命令
+     1>已完成生成项目“d:\用户目录\documents\visual studio 2010\Projects\NETtestS\NETtestS\NETtestS.vcxproj”(rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:03.60

@@ -1,0 +1,29 @@
+﻿生成启动时间为 2017/6/7 22:04:27。
+     1>项目“E:\C-learn\boost_t1\boost_t1\boost_t1.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\boost_t1.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         E:\Microsoft Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\boost_t1.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt boost_t1.cpp
+         boost_t1.cpp
+     1>e:\c-learn\boost_t1\boost_t1\boost_t1.cpp(53): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         E:\Microsoft Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C-learn\boost_t1\Debug\boost_t1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\boost_t1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\C-learn\boost_t1\Debug\boost_t1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C-learn\boost_t1\Debug\boost_t1.lib" /MACHINE:X86 Debug\boost_t1.exe.embed.manifest.res
+         Debug\boost_t1.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\boost_t1.exe.embed.manifest" /manifest Debug\boost_t1.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         boost_t1.vcxproj -> E:\C-learn\boost_t1\Debug\boost_t1.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\boost_t1.unsuccessfulbuild”。
+         正在对“Debug\boost_t1.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\C-learn\boost_t1\boost_t1\boost_t1.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:13.77

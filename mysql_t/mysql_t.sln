@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mysql_t", "mysql_t\mysql_t.vcxproj", "{D0DBFA46-7340-4819-9AD2-9EAFA79AC2AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0DBFA46-7340-4819-9AD2-9EAFA79AC2AA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D0DBFA46-7340-4819-9AD2-9EAFA79AC2AA}.Debug|Win32.Build.0 = Debug|Win32
+		{D0DBFA46-7340-4819-9AD2-9EAFA79AC2AA}.Release|Win32.ActiveCfg = Release|Win32
+		{D0DBFA46-7340-4819-9AD2-9EAFA79AC2AA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

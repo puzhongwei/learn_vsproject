@@ -1,0 +1,55 @@
+// t1.cpp : Defines the entry point for the console application.
+//
+
+#include "stdafx.h"
+#include <iostream>
+#include <string>
+#include <map> 
+#include <sstream>
+
+using namespace std;
+
+struct ltstr
+{
+  bool operator()(const char* s1, const char* s2) const
+  {
+    return strcmp(s1, s2) < 0;
+  }
+};
+
+string Trans(int ss)
+{
+    string str;
+    stringstream st;
+    st << ss;
+    st >> str;
+    return str;
+}
+
+int main(int arg, char* ch[])
+{	
+	map<int ,string> tmp;
+	string str="";
+	for(int i =0 ; i<1000 ; i++)
+	{
+
+		tmp.insert(map<int , string>::value_type(i,"pzw"+Trans(i)));
+	}
+	map<int , string> ::iterator it;
+	// cout<<tmp[999]<<endl;
+	/*for(it= tmp.begin();it != tmp.end(); it++)
+	{
+		cout<<it->first<<"    :   " <<it->second<<endl;
+	}*/
+	tmp.erase(134);
+	it = tmp.find(134);
+	if(it!=tmp.end())
+	{
+		cout<<it->first<<"  :    "<<it->second<<"存在"<<endl;
+	}
+	else
+	{
+		cout<<"元素不存在！"<<endl;
+	}
+	return 0;
+}
