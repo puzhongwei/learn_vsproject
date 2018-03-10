@@ -6,3 +6,11 @@ d:\用户目录\documents\visual studio 2010\Projects\云服务端\云服务端\
 d:\用户目录\documents\visual studio 2010\Projects\云服务端\云服务端\obj\x86\Debug\云服务端.pdb
 D:\用户目录\Documents\Visual Studio 2010\Projects\云服务端\云服务端\obj\x86\Debug\云服务端.云服务端.resources
 d:\用户目录\documents\visual studio 2010\Projects\云服务端\云服务端\obj\x86\Debug\云服务端.csprojResolveAssemblyReference.cache
+E:\C-learn\learn_vsproject\云服务端\云服务端\obj\x86\Debug\云服务端.exe
+E:\C-learn\learn_vsproject\云服务端\云服务端\obj\x86\Debug\云服务端.pdb
+E:\C-learn\learn_vsproject\云服务端\云服务端\bin\Debug\云服务端.exe
+E:\C-learn\learn_vsproject\云服务端\云服务端\bin\Debug\云服务端.pdb
+E:\C-learn\learn_vsproject\云服务端\云服务端\obj\x86\Debug\云服务端.csprojResolveAssemblyReference.cache
+E:\C-learn\learn_vsproject\云服务端\云服务端\obj\x86\Debug\云服务端.云服务端.resources
+E:\C-learn\learn_vsproject\云服务端\云服务端\obj\x86\Debug\云服务端.Properties.Resources.resources
+E:\C-learn\learn_vsproject\云服务端\云服务端\obj\x86\Debug\云服务端.csproj.GenerateResource.Cache

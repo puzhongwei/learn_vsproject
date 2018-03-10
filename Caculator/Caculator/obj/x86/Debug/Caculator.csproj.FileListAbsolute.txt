@@ -5,3 +5,11 @@ d:\用户目录\documents\visual studio 2010\Projects\Caculator\Caculator\obj\x8
 d:\用户目录\documents\visual studio 2010\Projects\Caculator\Caculator\obj\x86\Debug\Caculator.exe
 d:\用户目录\documents\visual studio 2010\Projects\Caculator\Caculator\obj\x86\Debug\Caculator.pdb
 d:\用户目录\documents\visual studio 2010\Projects\Caculator\Caculator\obj\x86\Debug\Caculator.Form1.resources
+E:\C-learn\learn_vsproject\Caculator\Caculator\obj\x86\Debug\Caculator.exe
+E:\C-learn\learn_vsproject\Caculator\Caculator\obj\x86\Debug\Caculator.pdb
+E:\C-learn\learn_vsproject\Caculator\Caculator\bin\Debug\Caculator.exe
+E:\C-learn\learn_vsproject\Caculator\Caculator\bin\Debug\Caculator.pdb
+E:\C-learn\learn_vsproject\Caculator\Caculator\obj\x86\Debug\Caculator.csprojResolveAssemblyReference.cache
+E:\C-learn\learn_vsproject\Caculator\Caculator\obj\x86\Debug\Caculator.Form1.resources
+E:\C-learn\learn_vsproject\Caculator\Caculator\obj\x86\Debug\Caculator.Properties.Resources.resources
+E:\C-learn\learn_vsproject\Caculator\Caculator\obj\x86\Debug\Caculator.csproj.GenerateResource.Cache

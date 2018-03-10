@@ -1,0 +1,24 @@
+﻿生成启动时间为 2018/3/9 21:37:52。
+     1>项目“E:\C-learn\learn_vsproject\tsakqueue_t\tsakqueue_t\tsakqueue_t.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\tsakqueue_t.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt tsakqueue_t.cpp
+         tsakqueue_t.cpp
+     1>e:\c-learn\learn_vsproject\tsakqueue_t\tsakqueue_t\task_queue.h(21): error C2061: 语法错误: 标识符“task_func_t”
+     1>e:\c-learn\learn_vsproject\tsakqueue_t\tsakqueue_t\task_queue.h(37): error C2146: 语法错误: 缺少“;”(在标识符“m_func”的前面)
+     1>e:\c-learn\learn_vsproject\tsakqueue_t\tsakqueue_t\task_queue.h(37): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\c-learn\learn_vsproject\tsakqueue_t\tsakqueue_t\task_queue.h(22): error C2065: “func_”: 未声明的标识符
+     1>e:\c-learn\learn_vsproject\tsakqueue_t\tsakqueue_t\task_queue.h(23): error C2065: “arg_”: 未声明的标识符
+     1>e:\c-learn\learn_vsproject\tsakqueue_t\tsakqueue_t\task_queue.h(24): error C2614: “task_impl_t”: 非法的成员初始化:“m_func”不是基或成员
+     1>e:\c-learn\learn_vsproject\tsakqueue_t\tsakqueue_t\task_queue.h(28): error C3861: “m_func”:  找不到标识符
+     1>e:\c-learn\learn_vsproject\tsakqueue_t\tsakqueue_t\task_queue.h(33): error C2065: “m_func”: 未声明的标识符
+     1>e:\c-learn\learn_vsproject\tsakqueue_t\tsakqueue_t\task_queue.h(44): error C2061: 语法错误: 标识符“task_func_t”
+     1>e:\c-learn\learn_vsproject\tsakqueue_t\tsakqueue_t\task_queue.h(56): error C2535: “task_t::task_t(void)”: 已经定义或声明成员函数
+                 e:\c-learn\learn_vsproject\tsakqueue_t\tsakqueue_t\task_queue.h(44) : 参见“task_t::task_t”的声明
+     1>e:\c-learn\learn_vsproject\tsakqueue_t\tsakqueue_t\task_queue.h(45): error C2065: “f_”: 未声明的标识符
+     1>e:\c-learn\learn_vsproject\tsakqueue_t\tsakqueue_t\task_queue.h(45): error C2065: “d_”: 未声明的标识符
+     1>e:\c-learn\learn_vsproject\tsakqueue_t\tsakqueue_t\task_queue.h(58): error C2661: “task_impl_t::task_impl_t”: 没有重载函数接受 2 个参数
+     1>已完成生成项目“E:\C-learn\learn_vsproject\tsakqueue_t\tsakqueue_t\tsakqueue_t.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.85

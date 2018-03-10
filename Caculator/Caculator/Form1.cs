@@ -138,10 +138,12 @@ namespace Caculator
                     }
                     else
                     { 
+                        if(arg2 == 0)
+                            throw new DivideByZeroException();
+                        else
                     r = arg1 / arg2;
                     break;
                     }
-                    break;
                 default:
                     throw new ApplicationException();
             }
